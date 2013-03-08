@@ -10,4 +10,13 @@ package Newpackages;
  */
 public class NewClass {
     
+    int krakken;
+   
+   NewClass(){
+   this.krakken=9001;
+   }
+   
+   
+   
+       
 }
